@@ -21,11 +21,7 @@ UsageHub is a responsive website that adapts to different screen sizes, making i
 
 - Full responsiveness for various devices.
 - Accessible and user-friendly design.
-- [List any other features here]
 
-## Live Demo
-
-See the live demo of UsageHub https://mahapara24.github.io/Full-responsive-website-usagehub/.
 
 ## Installation
 
